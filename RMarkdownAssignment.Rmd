@@ -1,10 +1,9 @@
 ---
 title: 'RMarkdown:  In Class Assignment'
-author: "YOUR NAME HERE"
+author: "Rehana Hajee"
 date: "Data 2401"
 output: html_document
 ---
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE) ## this line makes all the code show! 
@@ -12,26 +11,54 @@ knitr::opts_chunk$set(echo = TRUE) ## this line makes all the code show!
   ## Everything above this is R code that we need to make the file run! We'll discuss it next class.
 ```
 
-
-Reminder: We learned how to do these things in class today, but there is a "Markdown Help" page available in RStudio (and lots of help if you google). 
-
+Reminder: We learned how to do these things in class today, but there is a "Markdown Help" page available in RStudio (and lots of help if you google).
 
 # In-class Activity, Markdown
 
-**Do not skip reading this line** Create a new section at the end of this file with the title "Your work here", and beneath it, do the following 3 things. To turn this in, make sure you've committed and pushed, and turn in the link to this repository to the assignment on Blackboard.  
+**Do not skip reading this line** Create a new section at the end of this file with the title "Your work here", and beneath it, do the following 3 things. To turn this in, make sure you've committed and pushed, and turn in the link to this repository to the assignment on Blackboard.
 
-1. Make a subsection called Wise words. Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
+1.  Make a subsection called Wise words. Put your favorite quote in a block quote. Add a functioning link to a website that provides more information about that quote.
 
-2. Make a subsection called My semester. Make a three column table of the current courses you are taking, with separate columns for course number (put those in __bold__), course title (put those in _italics_), and instructor name.
+2.  Make a subsection called My semester. Make a three column table of the current courses you are taking, with separate columns for course number (put those in **bold**), course title (put those in *italics*), and instructor name.
 
-3. Lastly, make subsection called "I recommend", and add some information about your favorite author or musician.
+3.  Lastly, make subsection called "I recommend", and add some information about your favorite author or musician.
 
-- A _subsubheading_ with the name of the artist or author;    
-- An example of their writing or lyrics (formatted in a *block of text*);   
-- A _list_ of things they have written or performed (remember to use the formatting markup for a list!).     
+-   A *subsubheading* with the name of the artist or author;\
+-   An example of their writing or lyrics (formatted in a *block of text*);\
+-   A *list* of things they have written or performed (remember to use the formatting markup for a list!).
 
-
-Note that you can click "Knit" as you go along to see what the final results are going to look like. The knitting will produce an html file, which you will also need to stage/commit/push once it exists! 
+Note that you can click "Knit" as you go along to see what the final results are going to look like. The knitting will produce an html file, which you will also need to stage/commit/push once it exists!
 
 **Once you're done, remember to commit the changes and push the repo back to your assignment on GitHub!**
- 
+
+# Your work here
+
+## Wise words
+
+> "I cannot remember the books I’ve read any more than the meals I have eaten; even so they have made me." - Ralph Waldo Emerson
+
+> About the quote: <https://quoteinvestigator.com/2016/06/20/books/>
+
+## My semester
+
+| Course number | Course title | Instructor name |
+|-------------------------|--------------------|---------------------------|
+| CS 1411 | Introduction to Computer Science with Python | Dr. Singh |
+| DATA 2401 | Data Science 1 | Dr. Shoemaker |
+| MATH 2305 | Discrete Mathematics | Dr. Kumar |
+| MATH 2421 | Differential and Integral Calculus with Applications | Dr. Yoon |
+| PSY 2307 | Research Methods in Psychology | Dr. Tengler |
+
+## I recommend
+
+### Jennifer Lynn Barnes
+
+> “When I was a kid, my mom constantly invented games. The Quiet Game. The Who Can Make Their Cookie Last Longer? Game. A perennial favorite, The Marshmallow Game involved eating marshmallows while wearing puffy Goodwill jackets indoors, to avoid turning on the heat. The Flashlight Game was what we played when the electricity went out. We never walked anywhere—we raced. The floor was nearly always lava. The primary purpose of pillows was building forts. Our longest-lasting game was called I Have A Secret, because my mom said that everyone should always have at least one. Some days she guessed mine. Some days she didn’t. We played every week, right up until I was fifteen and one of her secrets landed her in the hospital. The next thing I knew, she was gone.” - *The Inheritance Games*
+
+Written works:
+
+1.The Fixer duology
+
+2.Debutantes duology
+
+3.The Inheritance Games trilogy
