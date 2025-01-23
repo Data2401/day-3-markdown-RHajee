@@ -42,7 +42,7 @@ Note that you can click "Knit" as you go along to see what the final results are
 ## My semester
 
 | Course number | Course title | Instructor name |
-|-------------------------|--------------------|---------------------------|
+|:------------------------|:--------------------|:--------------------------|
 | CS 1411 | Introduction to Computer Science with Python | Dr. Singh |
 | DATA 2401 | Data Science 1 | Dr. Shoemaker |
 | MATH 2305 | Discrete Mathematics | Dr. Kumar |
@@ -55,7 +55,7 @@ Note that you can click "Knit" as you go along to see what the final results are
 
 > “When I was a kid, my mom constantly invented games. The Quiet Game. The Who Can Make Their Cookie Last Longer? Game. A perennial favorite, The Marshmallow Game involved eating marshmallows while wearing puffy Goodwill jackets indoors, to avoid turning on the heat. The Flashlight Game was what we played when the electricity went out. We never walked anywhere—we raced. The floor was nearly always lava. The primary purpose of pillows was building forts. Our longest-lasting game was called I Have A Secret, because my mom said that everyone should always have at least one. Some days she guessed mine. Some days she didn’t. We played every week, right up until I was fifteen and one of her secrets landed her in the hospital. The next thing I knew, she was gone.” - *The Inheritance Games*
 
-Written works:
+#### Written works:
 
 1.The Fixer duology
 
